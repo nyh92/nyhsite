@@ -9,7 +9,4 @@ after that you can copy the link, and share it.
 This is my example 
 https://rawcdn.githack.com/nyh92/nyhsite/20fb9b787467556c94edf32417ba3bb5d245544d/NYH-personalsite/index.html
 
-and short version
-shorturl.at/kuGIN
-
 Good luck
